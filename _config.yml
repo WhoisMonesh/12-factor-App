@@ -1,0 +1,14 @@
+# Required plugins
+plugins:
+  - jekyll-include-cache
+  - jekyll-paginate
+
+# Site Settings
+title: "Your Site Name"
+description: "Your site description"
+locale: "en-US"
+url: "https://yourdomain.com" # or GitHub Pages URL
+
+# Theme Settings
+minimal_mistakes_skin: "default" # air, aqua, contrast, dark, etc.
+repository: "WhoisMonesh/12-factor-App" # For GitHub Pages
